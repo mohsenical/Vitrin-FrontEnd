@@ -17,6 +17,11 @@ import MiniCard from '@/components/templates/singleProduct/MiniCard';
 import Proposal from '@/components/modules/Proposal';
 import Offer from '@/components/templates/index/Offer';
 
+export const metadata = {
+    title: "محصول واحد با ID #14568",
+}
+
+
 function index() {
     return (
         <div>

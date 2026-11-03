@@ -11,6 +11,11 @@ import FinalSubmissionMobile from '@/components/templates/basket/FinalSubmission
 import MobileHeaders from '@/components/templates/basket/MobileHeaders';
 
 
+export const metadata = {
+    title: "سبد خرید",
+}
+
+
 function index() {
     return (
         <div>

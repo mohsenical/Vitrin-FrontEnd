@@ -19,7 +19,7 @@ function FooterMobile() {
                 <span className='text-[8px]'>خانه</span>
             </MenuMobile>
 
-            <MenuMobile href="/products">
+            <MenuMobile href="/category">
                 <BiCategoryAlt className='text-[12px] mb-0.5' />
                 <span className='text-[8px]'>دسته بندی</span>
             </MenuMobile>

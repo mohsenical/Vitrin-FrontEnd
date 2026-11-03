@@ -9,6 +9,9 @@ import FooterMobile from '@/components/modules/FooterMobile';
 import TopBar from '@/components/modules/TopBar';
 import TopbarMobile from '@/components/templates/index/TopbarMobile';
 
+export const metadata = {
+    title: "محصولات",
+}
 
 
 function index() {

@@ -4,6 +4,11 @@ import React, { useState } from 'react'
 import OtpCode from '@/components/templates/register/OtpCode'
 import Signup from '@/components/templates/register/Signup'
 
+export const metadata = {
+    title: "ثبت نام",
+}
+
+
 function index() {
 
     const [sendOtp, setSendOtp] = useState(false)
